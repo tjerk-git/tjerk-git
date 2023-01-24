@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Tjerk
 - 👀 I’m interested in Svelte
-- 🌱 I’m currently learning more Svelte
-- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ... tjerk.dijkstra@icloud.com
 
 <!---
