@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Tjerk
-- 👀 I’m interested in Svelte
-- 📫 How to reach me ... tjerk.dijkstra@icloud.com
 - Also https://mastodon.social/@chairk
 
 <!---
